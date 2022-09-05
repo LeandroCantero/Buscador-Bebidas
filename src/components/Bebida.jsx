@@ -15,7 +15,6 @@ function Bebida({ bebida }) {
                 />
                 <Card.Body>
                     <Card.Title>{bebida.strDrink}</Card.Title>
-                    <Card.Text>Algo más</Card.Text>
 
                     <Button
                         variant={'warning'}
